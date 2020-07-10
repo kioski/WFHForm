@@ -1,0 +1,16 @@
+This repo if for the WFH Form Automation
+
+
+Format for In/Out/Break:
+
+IN
+OUT
+
+
+Format for Daily Report:
+
+Each of the team members will create a google doc and share it with the team leader
+Sample Report = http://bit.ly/38OXXGt
+GOOGLE DRIVE FOR REPORTS
+
+
